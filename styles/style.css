@@ -9,7 +9,7 @@
   font-family: Arial, 'Helvetica Neue', sans-serif;
 }
 
-a:hover {
+.link:hover {
   text-decoration: underline;
 }
 
