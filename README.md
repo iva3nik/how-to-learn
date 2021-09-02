@@ -1,4 +1,4 @@
-# **Ссылка на проект
+# **Ссылка на проект**
 https://iva3nik.github.io/how-to-learn/index.html
 
 # **Научиться учиться** 
