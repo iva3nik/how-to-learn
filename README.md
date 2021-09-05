@@ -1,5 +1,7 @@
 # Проект : How to learn
 
+Cтек: HTML / CSS / Git / Figma
+
 # **Ссылка на проект**
 https://iva3nik.github.io/how-to-learn/index.html
 
